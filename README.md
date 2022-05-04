@@ -28,11 +28,10 @@
 
 ## [12장 : 제품 소프트웨어 패키징](<https://github.com/Exist95/jungbo/blob/main/12%EC%9E%A5(%EC%A0%9C%ED%92%88%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%8C%A8%ED%82%A4%EC%A7%95).md>)
 
-## 라이브러리(Library)
+### 라이브러리(Library) :
+- 라이브러리는 개발 편의를 위해 자주 사용되는 코드, API, 클래스, 값, 자료형 등의 다양한 자원들을 모아놓은 것을 의미한다.
 
-라이브러리는 개발 편의를 위해 자주 사용되는 코드, API, 클래스, 값, 자료형 등의 다양한 자원들을 모아놓은 것을 의미한다.
-
-## API(Application Programming Interface)
+### API(Application Programming Interface)
 
 API는 응용 프로그램 개발 시 운영체제나 프로그래밍 언어 등에 있는 라이브러리를 이용할 수 있도록 규칙 등을 정의해 놓은 인터페이스를 의미한다. <br>라이브러리에 있는 다양한 기능들을 손쉽게 이용할 수 있도록 도와주므로 효율적인 개발이 가능하다.
 
